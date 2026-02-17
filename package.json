@@ -4,8 +4,7 @@
   "description": "Website chat sederhana untuk pelajar dengan pixel game aesthetic - Full features",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
+    "start": "node server.js"
   },
   "keywords": ["chat", "websocket", "student", "real-time", "media-upload", "voice-note"],
   "author": "",
